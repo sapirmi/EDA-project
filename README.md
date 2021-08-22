@@ -11,7 +11,7 @@ Predicting the odds of death after heart failure
 [presentation.pptx](https://github.com/sapirmi/EDA-project/files/7027522/presentation.pptx)
 
 ## Random Forest Model
-### Out of almost 60 trees, 6 trees where examined to detect the causes of death by heart failure.
+Out of almost 60 trees, 6 trees where examined to detect the causes of death by heart failure.
 ![model31](https://user-images.githubusercontent.com/74865446/130358849-162092d5-530b-4587-9586-93b89990d6aa.png)
 ![model41](https://user-images.githubusercontent.com/74865446/130358850-1c0ca60d-af60-4765-b981-3dcdacb47846.png)
 ![model51](https://user-images.githubusercontent.com/74865446/130358851-e9c41366-1c50-478b-8193-dcb32cdc4b0c.png)
